@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andressa Benedette</h1>
-<h3 align="center">Full Stack Developer with 10+ years experience and familiar with HTML5, CSS3, JS, TS, PHP, Wordpress.</h3>
+<h3 align="center">Web Developer with 10+ years experience and familiar with HTML5, CSS3, JS, TS, PHP, Wordpress.</h3>
 
 - 🔭 I’m currently working on [Lumos Web](http://lumosweb.com.br)
 
