@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andressa Benedette</h1>
-<h3 align="center">Web Developer with 10+ years experience and familiar with HTML5, CSS3, JS, TS, PHP, Wordpress.</h3>
+
+- 👩 Web Developer with 10+ years experience
 
 - 🔭 I’m currently working on [Lumos Web](http://lumosweb.com.br)
 
@@ -37,6 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=Gulp)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![Invision](https://img.shields.io/badge/-Invision-05122A?style=flat&logo=Invision)&nbsp;
