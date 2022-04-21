@@ -44,8 +44,3 @@
 ![Invision](https://img.shields.io/badge/-Invision-05122A?style=flat&logo=Invision)&nbsp;
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe-Photoshop)&nbsp;
 ![Adobe_XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe-XD)&nbsp;
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressa-lw&show_icons=true&locale=en&layout=compact&theme=nord" alt="andressa-lw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andressa-lw&theme=nord" alt="andressa-lw" /></p>
