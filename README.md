@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/QDMVVmNGYfQAAAAi/hi.gif" width="30px">, I'm Andressa Benedette</h1>
+<h1 align="center">Hi, I'm Andressa Benedette</h1>
 
 - 👩 Web Developer with 10+ years experience
 
