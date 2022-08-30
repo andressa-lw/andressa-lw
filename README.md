@@ -17,9 +17,6 @@
 <a href="https://instagram.com/lumosweb" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lumosweb-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://dribbble.com/lumosweb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lumosweb-05122A?style=flat&logo=dribbble" alt="dribbble"/>  
-</a>
 <a href="https://linkedin.com/in/andressa-benedette-98502395" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-andressabenedette-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
